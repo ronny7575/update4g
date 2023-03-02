@@ -1,7 +1,7 @@
 {
-"Version": "1.8.01",
+"Version": "1.7.101",
   "ReleaseNotes": "➡️ ATUALIZAÇÃO DISPONÍVEL ⬅️\n ••••\n
-🔰 V: 1.8.01 Horas: 13:05 02/03/2023 🔰\n
+🔰 V: 1.7.101 Horas: 13:05 02/03/2023 🔰\n
 ••••\n
 ⚠️ MURAL DE AVISOS: ATUALIZADO CONEXOES TIM  🟢⚠️
 ••••••••••••••••••••\n
@@ -55,7 +55,7 @@ entre contato com seu revendedor
  ],
  "Servers": [
    {
-      "Name": "Servidor BR v 1.8.01",
+      "Name": "Servidor BR v 1.7.101",
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "rony.sonicvpn.xyz",
